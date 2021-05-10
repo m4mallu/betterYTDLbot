@@ -3,7 +3,6 @@ import os
 
 from plugins.sub_functions import view_thumbnail, close_button, del_thumb_confirm, delete_thumbnail
 from plugins.help import help_me, start_bot
-from plugins.gen_ss import generate_screen_shot
 
 
 from pyrogram import (Client, InlineKeyboardButton, InlineKeyboardMarkup, ContinuePropagation, InputMediaDocument,

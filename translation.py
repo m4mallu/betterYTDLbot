@@ -8,7 +8,7 @@ class Translation(object):
     SAVED_CUSTOM_THUMB_NAIL = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
                               "downloads until you clear it !</code> "
     WELCOME_TEXT = "Hey.. <b>{}</b>\n\n1️⃣ <code>Currently supports single YouTube Urls, Bot will download the media, " \
-                   "screenshots & a sample video automatically</code>\n\n2️⃣ <code>Bot won't " \
+                   "automatically</code>\n\n2️⃣ <code>Bot won't " \
                    "support Playlists</code>\n\n3️⃣ <code>Just send an image to set your custom thumbnail for the " \
                    "videos</code>\n\n4️⃣ <code>The thumbnail you have set will remain unchanged, until u clear it in " \
                    "'Options'</code>\n\n5️⃣ <code>You can add a pre-name to the videos that you are going to " \

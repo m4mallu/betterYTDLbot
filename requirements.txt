@@ -2,5 +2,5 @@ wget
 hachoir
 asyncio
 TgCrypto
-https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip
+https://github.com/Mrvishal2k2/pyrogram-old/archive/asyncio-dev.zip
 git+https://github.com/ytdl-org/youtube-dl
